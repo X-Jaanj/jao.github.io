@@ -1,0 +1,63 @@
+#signup-form{
+    padding-top: 20px;
+    background-color: rgba(134, 5, 5, 0.479);
+}
+
+#h1{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   padding-left: 100px;
+   padding-top: 30px;
+   background-color: rgba(134, 5, 5, 0.637);
+   color: rgb(255, 255, 255);
+   padding: 10px;
+  
+}
+
+#model{
+    color: white;
+    padding-top: 30px;
+    padding-left: 20px;
+    border-bottom: solid rgba(134, 5, 5, 0.637);
+}
+
+h5{
+    color: aliceblue;
+}
+
+h3{
+    color: rgb(211, 204, 204);
+}
+
+
+h1{
+    color: white;
+    border-bottom: solid rgba(134, 5, 5, 0.637);
+}
+
+#McQueen{
+   padding-top: 10px;
+   padding-left: 15px;
+   padding-bottom: 50px;
+   border-radius: 3%;
+   border-bottom: solid rgba(134, 5, 5, 0.637);
+   
+}
+
+img{
+    border-radius: 5%;
+}
+
+#McQueen2{
+    padding-left: 15px;
+    border-radius: 3%;
+    border-bottom: solid rgba(134, 5, 5, 0.637);
+    width: 30%;
+    float: right;
+ }
+
+body{
+    background-image: url(backgorund.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed
+}
